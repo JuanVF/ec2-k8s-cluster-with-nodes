@@ -1,0 +1,7 @@
+variables.tfvars
+*.pem
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+admin.conf
